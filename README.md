@@ -1,11 +1,11 @@
 # Probability-and-Stats
-***
-- probability - basic definition
-- conditional probability
-- bayes' theorem
-- discriptive statistics
-- gaussian distribution
-- central limit theorem
-- conidence interval
-- combinatories
-- binomial & geometric distribution
+
+- Probability - basic definition
+- Conditional probability
+- Bayes' theorem
+- Descriptive statistics
+- Gaussian distribution
+- Central limit theorem
+- Confidence interval
+- Combinatorics
+- Binomial & Geometric distribution
